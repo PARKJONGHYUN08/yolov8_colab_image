@@ -44,3 +44,4 @@ display(Image(saved_image_path))
 ```
 
 
+![5](https://github.com/user-attachments/assets/5ee3f5dd-9436-4c8c-bdd8-72f8b56b6886)
