@@ -1,6 +1,6 @@
 # yolov8_colab_image
 <b> yolov8을 이용하고 이미지를 바탕하면에 저장하고 yolov8을 사용하였습니다
-~~~ vash
+``` bash
 # 필요한 라이브러리 설치
 %pip install ultralytics opencv-python-headless matplotlib
 
@@ -41,4 +41,6 @@ saved_image_path = '/content/runs/detect/exp/' + filename
 
 # 결과 이미지 표시
 display(Image(saved_image_path))
-~~~
+```
+
+
